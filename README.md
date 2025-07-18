@@ -11,7 +11,7 @@ This project allows you to turn images into audio stories. It employs image-to-t
 1. **Clone the Repository**:
    ```sh
    https://github.com/manishjha98/image2audiostoryconverter.git
-   cd Image2AudioStoryConverter
+   cd image2audiostoryconverter
    ```
   
 
